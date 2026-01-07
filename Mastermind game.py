@@ -22,7 +22,6 @@ while(play2!=play1): #this conditon is not equal to match the number or play1 an
     play1=str(play1) #explicitly conversion of integer to string
     play2=str(play2) #explicitly conversion of integer to string
  
-    i=0
     correct=['x']*3
 
 
